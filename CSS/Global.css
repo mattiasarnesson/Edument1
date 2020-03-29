@@ -1,0 +1,11 @@
+﻿body,html {
+    background-color:lightgray;
+}
+
+.container{
+    background-color:white;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
