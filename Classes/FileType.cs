@@ -10,7 +10,7 @@ namespace Edument1
         private String extension;
         private String img;
         private long size;
-        private bool dir; //
+        private bool dir;
 
         public FileType()
         {
